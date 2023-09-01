@@ -9,7 +9,7 @@ Expliquer en 5 à 10 lignes ce qui vous intéresse en TIM. Parlez de ce qui vous
 [Ce tutoriel](https://guides.github.com/features/mastering-markdown/) vous aidera à avoir la bonne syntaxe lorsque vous écrirez dans votre journal. Vous pouvez aussi vous référez à [cette *cheatsheet*](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md). 
 
 
-# <span style="color:red">Pourquoi j'ai choisi l'intégration multimédia?</span>
+# <span style="color:red"> Pourquoi j'ai choisi l'intégration multimédia? </span>
 Ce qui m'intéresse dans la technique d'intégration multimédias c'est la diversité des cours, il y a beaucoup de cours différents dans la forme mais qui fonctionnent bien ensembles. Je suis intéressé par quelques cours en particuliers tels que: 
 - les cours d'illustration numérique, 
 - les cours de web,

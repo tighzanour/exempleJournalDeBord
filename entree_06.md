@@ -1,6 +1,5 @@
-# Entrée 6
-## Analyse critique d'une oeuvre
 
+## Analyse critique d'une oeuvre
 ### Escaparium, ''L'île de la Reine vaudou''.
 
 L'île de la Reine vaudou est un Escape Game. C'est un jeu où l'objectif est de résoudre des énigmes afin de parvenir à sortir de la pièce dans le temps imparti.

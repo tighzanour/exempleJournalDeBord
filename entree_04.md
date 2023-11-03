@@ -18,9 +18,15 @@ J'apprécie toutes les possibilités qu'il est possible d'atteindre dans ce mét
 - Point négatif: Les logiciels utilisés peuvent être complexes, en plus d'être soumis à une évolution constante.
 
 ### Designer d'interface
+Ce qui me plait dans ce métier, c'est qu'il faut éffectuer des recherches et étudier les besoins et les comportements des utilisateurs ciblés. Les designer d'inteface sont responsables de la création des interfaces visuelles et interactives. Ils travaillent avec d'autres professionnels tels que des développeurs et des experts en marketing pour créer des interfaces qui correspondent aux objectifs visés. Ils doivent être à jour sur les dernières tendances pour garantir une expérience moderne aux utilisateurs.
 
+- Point positif: Les designer d'interface peuvent avoir un impact direct sur l'expérience des utilisateurs grâce à leurs interfaces. 
+- Point négatif: Le besoin de collaborer avec d'autres professionnels peut être frustant puisqu'il peut y avoir des compris dans le processus créatif. 
 
 ### Développeur web
-4 à 5 lignes
+Pour ce métier, j'aime la possibilité de travailler de façon indépendante. Les développeurs web sont chargés de concevoir et développer des sites web en utilisants des languages de programmation tels que HTML, CSS, JavaScript, etc. Ils sont responsables d'écrire du code pour créer des fonctionnalités demandés par les clients comme des formulaires interactifs, des boutiques en ligne, etc. Ils peuvent travailler dans des entreprises ou bien depuis leur domicile. Pour être développeur web il faut être patient et capable de suivre des démarches détaillées.
+
+- Point positif: La demande de développeurs web est très élevée. Il est donc facile de trouver un emploi.
+- Point négatif: Le travail demandé peut être ennuyant et répétitif sur le long terme.  
 
 

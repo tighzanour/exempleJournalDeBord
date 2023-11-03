@@ -1,4 +1,3 @@
-# Entrée 3
 ## Plan de carrière
 
 ### Présentation

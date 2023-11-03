@@ -1,6 +1,4 @@
-# Entrée 5
 ## Rétrospective de l'examen (1 à 2 lignes par question)
-
 ### Points forts de la préparation à l'examen
 Ma préparation a été faite en équipe, ce qui m'a permi de rendre la préparation plus intéressante et donc plus simple à effectuer. 
 Et, en se posant mutuellement des questions, nous avons mémorisé les informations de façon efficace. 

@@ -9,10 +9,12 @@ Ce que j'apprécie dans ce métier c'est qu'il est possible de faire parler notr
 - Point négatif: Cependant, c'est un travail qui peut être stressant car la responsabilité d'un directeur artistique est non négligeable.
 
 ### Concepteur d'animation
-
+Pour ce métier, j'aime bien le fait qu'on puisse combiner la créativité artistique ainsi que les compétences techniques. Les concepteurs artistique travaillent souvent dans des studios de cinéma des sociétés de production, des agences de publicité et des entreprises de jeux vidéo. L'objectif de leur travail est de créer des animations 2D et 3D pour les médias comme les films, les publicités et les jeux vidéos. Les concepteurs artistiques doivent être des personnes qui respectent leurs horraires. Ils doivent aussi être créatifs afin de proposer des idées originales et de s'adapter aux tendances.
+- Point positif: En pratiquant ce métier, il est possible de donner vie à des idées créatives et de les présenter à un large public.
+- Point négatif: La compétition dans ce domaine est très élevé à cause de la popularité des films d'animation et des jeux vidéos. Il est donc difficile pour les nouveaux de se faire un nom.
 
 ### Animateur 2D et 3D
-4 à 5 lignes 
+
 
 ### Designer d'interface
 4 à 5 lignes

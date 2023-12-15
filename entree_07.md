@@ -16,7 +16,11 @@ Personnellement, j'ai trouvé que la conférence était claire. Les idées étai
 ### Structure de la conférence (Entre 1 et 2 lignes)
 Comment avez-vous trouvé la clarté de la conférence? Est-ce que le développement était logique?
 
+J'ai trouvé que le développement de la conférence était logique et bien structurée. Les idées ont été présentée correctement.
+
 ### Qualité visuelle (Entre 1 et 2 lignes)
 Comment avez-vous trouvé la qualité visuelle de la conférence?Est-ce que l'esthétisme était de qualité?
+
+Honnêtement, je n'ai pas trop fait attention à l'esthétisme de la présentation. Me connaissant, celà veut probablement dire qu'il n'y avait rien de dérangeant à ce sujet et qu'il était facile de se concentrer sur le contenu.  
 
 

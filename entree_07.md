@@ -11,6 +11,8 @@ J'ai trouvé que la conférence était utile. La conférence m'a effectivement p
 ### Clarté de la conférence (Entre 1 et 2 lignes)
 Comment avez-vous trouvé la clarté de la conférence? Est-ce que les idées étaient claires et concise?
 
+Personnellement, j'ai trouvé que la conférence était claire. Les idées étaient effectivement claires et concises. De plus, les conférencières étaient disponibles pour répondre à nos questions, ce qui était pratique si nous avions des doutes sur leurs idées.
+
 ### Structure de la conférence (Entre 1 et 2 lignes)
 Comment avez-vous trouvé la clarté de la conférence? Est-ce que le développement était logique?
 

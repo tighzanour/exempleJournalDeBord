@@ -11,5 +11,8 @@ C’est un MMORPG révolutionnaire qui fusionne les mondes impressionnants de Ge
 Pour ce projet, la programmation en C++ et C# sera utilisée. Des moteurs de jeux comme Unity et Unreal Engine. La modélisation 3D. Et aussi, l'inteligence artificielle.  
 
 ### Tâches
-Quelles sont les tâches nécessaires à la réalisation de votre projet? 
+ - Développement technique (programmation, infrastructure,etc)
+ - Conception artistique (design des personnages, animation 3D, etc)
+ - Tests (correction de bugs, beta, alpha, etc)
+ - Marketing (publicité, bande annonce, etc)
 

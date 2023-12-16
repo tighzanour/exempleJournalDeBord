@@ -4,8 +4,8 @@
 ### Résumer votre projet en une phrase
 C’est un MMORPG révolutionnaire qui fusionne les mondes impressionnants de Genshin Impact, l’intensité des combats et l’histoire de League of Legends, ainsi que le côté très immersif et dynamique de World of Warcraft. 
    
-### Moodboard
-Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
+### Moodboard 
+![moodboardmmorpg](https://github.com/tighzanour/exempleJournalDeBord/assets/143338487/cd4e6892-daa0-4aa5-8592-3617c4985d92)
 
 ### Technologies
 Décrivez quelles seront les technologies utilisées dans votre projet. 

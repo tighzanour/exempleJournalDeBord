@@ -8,7 +8,7 @@ C’est un MMORPG révolutionnaire qui fusionne les mondes impressionnants de Ge
 ![moodboardmmorpg](https://github.com/tighzanour/exempleJournalDeBord/assets/143338487/cd4e6892-daa0-4aa5-8592-3617c4985d92)
 
 ### Technologies
-Décrivez quelles seront les technologies utilisées dans votre projet. 
+Pour ce projet, la programmation en C++ et C# sera utilisée. Des moteurs de jeux comme Unity et Unreal Engine. La modélisation 3D. Et aussi, l'inteligence artificielle.  
 
 ### Tâches
 Quelles sont les tâches nécessaires à la réalisation de votre projet? 
